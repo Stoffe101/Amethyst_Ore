@@ -1,15 +1,15 @@
 modLoader="javafml"
 loaderVersion="[47,)"
 license="MIT"
-issueTrackerURL="https://github.com/yourname/amethystore/issues"
+issueTrackerURL="https://github.com/Stoffe101/Amethyst_Ore/issues"
 
 [[mods]]
 modId="amethystore"
 version="1.0.0"
 displayName="Amethyst Ore"
-displayURL="https://github.com/yourname/amethystore"
+displayURL="https://github.com/Stoffe101/Amethyst_Ore"
 logoFile="amethystore.png"
-authors="YourName"
+authors="Stoffe101"
 description='''Adds amethyst ore to the game that drops vanilla amethyst when mined.'''
 
 [[dependencies.amethystore]]
