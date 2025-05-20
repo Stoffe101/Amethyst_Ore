@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourname/amethystore/issues"
+
+[[mods]]
+modId="amethystore"
+version="1.0.0"
+displayName="Amethyst Ore"
+displayURL="https://github.com/yourname/amethystore"
+logoFile="amethystore.png"
+authors="YourName"
+description='''Adds amethyst ore to the game that drops vanilla amethyst when mined.'''
+
+[[dependencies.amethystore]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.amethystore]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
